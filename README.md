@@ -64,7 +64,7 @@ Aplicação desktop desenvolvida com **Java** e **POO**, focada em organização
 📧 **victorsampaio087@gmail.com**  
 📞 **(61) 99551-9381**  
 🔗 [**LinkedIn**](https://www.linkedin.com/in/victor-sampaio-10279b2a6)  
-💻 [**GitHub**](https://github.com/teuusuarioaqui)
+💻 [**GitHub**](https://github.com/victorsampaio12)
 
 ---
 
