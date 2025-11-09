@@ -69,9 +69,5 @@ Aplicação desktop desenvolvida com **Java** e **POO**, focada em organização
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=victorsampaio12&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
-</p>
-
-<p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:4169e1&height=120&section=footer"/>
 </p>
